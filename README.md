@@ -7,12 +7,12 @@ A classic Space Invaders game developed using Python and Pygame. The game featur
 #Collision Detection: Uses distance-based checks to detect collisions between bullets and aliens, updating the score upon successful hits.
 #Game Over: Displays a "GAME OVER" message if aliens reach the bottom of the screen.
 
-###### Features
+#### Features
 Background music and sound effects for shooting and explosions.
 Dynamic alien movement with change in direction upon reaching screen edges.
 Score tracking displayed on the screen.
 
-###### Technologies Used
+#### Technologies Used
 Python
 Pygame
 Sound effects and image assets
